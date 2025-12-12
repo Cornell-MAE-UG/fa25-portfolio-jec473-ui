@@ -39,7 +39,7 @@ kramdown:
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-feed
+  - # jekyll-feed
   - jekyll-include-cache
-  - # jekyll-seo-tag
+  - jekyll-seo-tag
 
